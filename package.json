@@ -1,0 +1,15 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jessica Lane",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-jshint": "^2.0.0",
+    "jshint": "^2.9.2"
+  }
+}
