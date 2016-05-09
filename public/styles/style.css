@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+.jumbotron {
+  background-color: rgba(60,122,137,0.5);
+}
+body {
+  background-color: #dbc2cf;
+}
