@@ -9,8 +9,7 @@
   "author": "Jessica Lane",
   "license": "ISC",
   "devDependencies": {
-    "gulp-jshint": "^2.0.0",
     "gulp-stylus": "^2.3.1",
-    "jshint": "^2.9.2",
+    "jshint": "^2.9.2"
   }
 }
