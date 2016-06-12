@@ -1,10 +1,11 @@
 h1 {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-  background-color: #f00;
 }
 .jumbotron {
-  background-color: #d8a47f;
+  background-color: rgba(216,164,127,0.6);
+  border-color: #e7ecef;
+  border: 1px solid;
 }
 body {
   background-color: #e7ecef;
